@@ -7,7 +7,7 @@ Explore the dataset using visualizations and statistics to understand patterns, 
 
 ## 📁 Dataset
 - [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-- File used: `titanic.csv`
+- File used: `cleaned_titanic.csv`
 
 ---
 
